@@ -4,3 +4,6 @@ The program generates a password of 14 characters (12 alphanumeric + 2 special c
 
 I have uploaded both the bash script and the python program that runs it (not very useful since the password is pasted as soon as you start the program) for those who want to improve or modify it.
 Any advice is welcome, I will improve the project as soon as I have time.
+
+The following libraries must already be installed to guarantee the execution of the program:
+pyperclip, pyautogui, tkinter
