@@ -7,3 +7,7 @@ Any advice is welcome, I will improve the project as soon as I have time.
 
 The following libraries must already be installed to guarantee the execution of the program:
 pyperclip, pyautogui, tkinter
+
+EDIT: 
+I updated the script by sending the file with the updated passwords to my server via ftp protocol every time I save new passwords via the GUI, so that I have the passwords at my fingertips wherever I am and without necessarily having my devices attached
+
